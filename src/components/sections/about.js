@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'IntelliJ Idea', 'Kubernetes', 'Python', 'Jenkins', 'GitHub Actions', 'Terraform', 'BurpSuite'];
+  const skills = ['JavaScript', 'NodeJS', 'ReactJS', 'MongoDB', 'Docker', 'Kubernetes', 'AWS', 'Jenkins', 'GitHub Actions', 'Prometheus', 'Terraform', 'BurpSuite'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,9 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I'm Rishav Mehra, a Cloud Developer based in Chandigarh, India.
-            I got introduced to programming in my freshman year at Sri Guru Gobind Singh College, <a href="https://puchd.ac.in">[Panjab University]</a> 
-            Chandigarh where I currenty doing my Bachelors in Computer Application (2019-2022) with 73.4% aggregate.
+            Hello! I'm Rishav Mehra, a Software Developer based in Chandigarh, India.
+            I got introduced to programming in my freshman year at Sri Guru Gobind Singh College, <a href="https://puchd.ac.in">[ Panjab University ]</a> 
+             Chandigarh from where I completed my Bachelors in Computer Application (2019-2022) with 73.4%.
             </p>
 
             <p>

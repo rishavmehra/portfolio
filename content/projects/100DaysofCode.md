@@ -1,6 +1,6 @@
 ---
 date: '2020-09-16'
-title: '100DaysOfCode'
+title: '2weekofCode'
 github: 'https://github.com/rishavmehra/100DaysofCode'
 external: ''
 tech:
@@ -8,7 +8,7 @@ tech:
   - Python
   - Go
   - DSA
-  
+
 company: ''
 showInProjects: true
 ---

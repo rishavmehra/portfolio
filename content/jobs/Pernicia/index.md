@@ -1,9 +1,9 @@
 ---
-date: '28-02-2022'
+date: '2022-02-01'
 title: 'DevOps Intern at'
 company: 'Pernicia Consultancy'
-range: '01-07-2022'
-url: 'https://tryhackme.com/rishavmehra/badges/adventofcyber3'
+range: '2022-07-01'
+url: ''
 ---
 
 - Jenkins

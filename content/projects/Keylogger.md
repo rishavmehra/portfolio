@@ -5,7 +5,7 @@ github: 'https://github.com/rishavmehra/R.keylogger'
 external: ''
 tech:
   - Python
-  - E-nail Serves
+  - E-mail Serves
 showInProjects: true
 ---
 

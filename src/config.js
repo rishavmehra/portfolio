@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'blog',
-      url: 'https://blogsbyrishav.ml',
+      url: 'https://rishavmehra.hashnode.dev/',
     },
   ],
 
